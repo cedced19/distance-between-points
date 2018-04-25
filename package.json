@@ -1,0 +1,27 @@
+{
+  "name": "distance-between-points",
+  "version": "0.0.0",
+  "description": "A module to get the distance between points on the Earth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/distance-between-points.git"
+  },
+  "keywords": [
+    "distance",
+    "points",
+    "earth"
+  ],
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/distance-between-points/issues"
+  },
+  "homepage": "https://github.com/cedced19/distance-between-points#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
